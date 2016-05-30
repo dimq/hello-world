@@ -1,1 +1,1 @@
-this is a fucking test
+this is a test
